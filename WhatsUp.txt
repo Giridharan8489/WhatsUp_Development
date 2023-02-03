@@ -13,3 +13,5 @@ Audio call feature
 Video call feature
 
 Adding status feature
+
+Adding group upto 100 users
