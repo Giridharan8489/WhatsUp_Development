@@ -11,3 +11,5 @@ Hiding the last seen
 Audio call feature
 
 Video call feature
+
+Adding status feature
