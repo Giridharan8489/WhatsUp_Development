@@ -7,3 +7,7 @@ Last Seen code
 Attachment Image, Audio and Video Code
 
 Hiding the last seen
+
+Audio call feature
+
+Video call feature
