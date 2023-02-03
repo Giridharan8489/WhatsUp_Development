@@ -4,7 +4,7 @@ Chat Screen code
 
 Last Seen code
 
-Attachment Image, Audio and Video Code
+Attachment Image, Audio, Video and Documents Code
 
 Hiding the last seen
 
