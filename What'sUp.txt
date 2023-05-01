@@ -15,3 +15,5 @@ Video call feature
 Adding status feature
 
 Adding group upto 200 users
+
+Adding Payment feature
